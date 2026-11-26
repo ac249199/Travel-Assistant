@@ -1,0 +1,191 @@
+{
+    "success": true,
+    "url": "https://www.booking.com/searchresults.html?dest_id=-2114217&dest_type=city&group_adults=2&no_rooms=1&group_children=0&offset=0&checkin=2026-11-25&checkout=2026-11-28&lang=en&sb=1&src_elem=sb&aid=304142",
+    "hotel_id": null,
+    "data": {
+        "effective_market": {
+            "requested_country": "IN",
+            "targeted_country": "IN",
+            "country_verified": false,
+            "verified_country": null,
+            "language": "en",
+            "currency": "INR"
+        },
+        "hotels": [
+            {
+                "hotel_id": "17684217",
+                "name": "Hotel Amrit Heritage Guest House",
+                "address": "kashi Benia Bagh Road,Girja Ghar Road,Near Santosh General Store",
+                "city": "kashi",
+                "display_location": "kashi",
+                "distance": "2.8 miles",
+                "latitude": 25.2958967391985,
+                "longitude": 83.0003613249284,
+                "star_rating": null,
+                "price": {
+                    "amount": 6747.75,
+                    "currency": "INR",
+                    "display": "₹ 6,748",
+                    "before_discount": "₹ 8,997",
+                    "labels": [
+                        "Late Escape Deal"
+                    ],
+                    "genius_discount_pct": null,
+                    "is_mobile_rate": false
+                },
+                "rating": null,
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/square200/940017825.jpg?k=0723c0b0bcf74120ffc6aec6901cddc56043578a57772728d55a271320185030&o=",
+                "free_cancellation": true,
+                "no_prepayment": true,
+                "is_sold_out": false,
+                "room_name": "Deluxe Double Room"
+            },
+            {
+                "hotel_id": "17681718",
+                "name": "Shree Shyam palace",
+                "address": "Cantt Railway Station Road opposite near rodways bus stand behind laxmi hospital",
+                "city": "Varanasi",
+                "display_location": "Varanasi",
+                "distance": "1.2 miles",
+                "latitude": 25.3272025515805,
+                "longitude": 82.9910027740958,
+                "star_rating": null,
+                "price": {
+                    "amount": 4227.3,
+                    "currency": "INR",
+                    "display": "₹ 4,227",
+                    "labels": [],
+                    "genius_discount_pct": null,
+                    "is_mobile_rate": false
+                },
+                "rating": null,
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/square200/939889067.jpg?k=ce35b0198e5b03e3503743ff12f69c73f6549a5a2ca734f82fd7107380816270&o=",
+                "free_cancellation": true,
+                "no_prepayment": true,
+                "is_sold_out": false,
+                "room_name": "Triple Room"
+            },
+            {
+                "hotel_id": "6254878",
+                "name": "Live Free Hostel Varanasi",
+                "address": "N 1/3-D 1-2, Nagwa, Varanasi, Uttar Pradesh 221005",
+                "city": "Varanasi",
+                "display_location": "Varanasi",
+                "distance": "3.5 miles",
+                "latitude": 25.284672,
+                "longitude": 83.007098,
+                "star_rating": null,
+                "price": {
+                    "amount": 13015.2,
+                    "currency": "INR",
+                    "display": "₹ 13,015",
+                    "before_discount": "₹ 14,790",
+                    "labels": [],
+                    "genius_discount_pct": null,
+                    "is_mobile_rate": false
+                },
+                "rating": {
+                    "score": 8.9,
+                    "review_count": 831,
+                    "display": "Fabulous"
+                },
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/square200/532264482.jpg?k=dcfc0644c61584d1196db6843cc24fea37df86e9710f2a22dc5807fddc892874&o=",
+                "free_cancellation": true,
+                "no_prepayment": false,
+                "is_sold_out": false,
+                "room_name": "Deluxe Double Room"
+            },
+            {
+                "hotel_id": "17653222",
+                "name": "Hotel Taposthali",
+                "address": "31/41, बंगाली टोला",
+                "city": "वाराणसी",
+                "display_location": "वाराणसी",
+                "distance": "2.1 miles",
+                "latitude": 25.3056903344341,
+                "longitude": 83.005876333564,
+                "star_rating": null,
+                "price": {
+                    "amount": 5400.0,
+                    "currency": "INR",
+                    "display": "₹ 5,400",
+                    "labels": [],
+                    "genius_discount_pct": null,
+                    "is_mobile_rate": false
+                },
+                "rating": null,
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/square200/938684728.jpg?k=b3fc8a2a4ea8d6411aee38c087d9b70fe778e1ebf1d43f6ee65baef341d9f76a&o=",
+                "free_cancellation": true,
+                "no_prepayment": true,
+                "is_sold_out": false,
+                "room_name": "Deluxe Double Room (1 adult + 1 child)"
+            },
+            {
+                "hotel_id": "16072651",
+                "name": "Madpackers Varanasi",
+                "address": "Yogg Hostel D.24/12, near Om Rest House, Pandey Ghat, Bangali Tola",
+                "city": "Varanasi",
+                "display_location": "Varanasi",
+                "distance": "2.2 miles",
+                "latitude": 25.3037272,
+                "longitude": 83.0078847,
+                "star_rating": null,
+                "price": {
+                    "amount": 19089.929999999997,
+                    "currency": "INR",
+                    "display": "₹ 19,090",
+                    "before_discount": "₹ 29,315",
+                    "labels": [
+                        "Late Escape Deal"
+                    ],
+                    "genius_discount_pct": null,
+                    "is_mobile_rate": false
+                },
+                "rating": {
+                    "score": 9.0,
+                    "review_count": 99,
+                    "display": "Superb"
+                },
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/square200/860468820.jpg?k=56e8cdc5290153e7727a8efa3b8729d30e6630a29ae50883b7af91ff99d6389c&o=",
+                "free_cancellation": false,
+                "no_prepayment": false,
+                "is_sold_out": false,
+                "room_name": "Deluxe Queen Room"
+            }
+        ],
+        "pagination": {
+            "current_page": 1,
+            "per_page": 5,
+            "total_results": 926,
+            "total_pages": 186,
+            "has_next_page": true,
+            "has_previous_page": false,
+            "offset": 0
+        },
+        "hotels_found": 5,
+        "search_url": "https://www.booking.com/searchresults.html?dest_id=-2114217&dest_type=city&group_adults=2&no_rooms=1&group_children=0&offset=0&checkin=2026-11-25&checkout=2026-11-28&lang=en&sb=1&src_elem=sb&aid=304142",
+        "metadata": {
+            "dest_id": -2114217,
+            "dest_type": "CITY",
+            "checkin": "2026-11-25",
+            "checkout": "2026-11-28",
+            "adults": 2,
+            "children": 0,
+            "rooms": 1,
+            "children_ages": [],
+            "highlighted_hotels": [],
+            "rows_per_page": 5,
+            "offset": 0,
+            "travel_purpose": 2,
+            "language": "en",
+            "currency": "INR",
+            "country_market": "IN",
+            "nflt": null,
+            "requested_filters": [],
+            "applied_filters": [],
+            "unapplied_filters": []
+        }
+    },
+    "message": "Found 5 hotels",
+    "retrieved_at": "2026-11-21T23:27:04.804951Z"
+}

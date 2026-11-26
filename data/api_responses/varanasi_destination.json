@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "query": "Varanasi",
+    "normalized_query": "Varanasi, Uttar Pradesh, India",
+    "dest_id": -2114217,
+    "dest_type": "CITY",
+    "suggestions": [
+        {
+            "dest_id": -2114217,
+            "dest_type": "CITY",
+            "label": "Varanasi, Uttar Pradesh, India"
+        },
+        {
+            "dest_id": 264071,
+            "dest_type": "LANDMARK",
+            "label": "Varanasi Junction Train Station, Varanasi, Uttar Pradesh, India"
+        },
+        {
+            "dest_id": 17240,
+            "dest_type": "DISTRICT",
+            "label": "Varanasi Cantt, Varanasi, Uttar Pradesh, India"
+        }
+    ]
+}
